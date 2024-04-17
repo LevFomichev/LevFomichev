@@ -33,7 +33,7 @@
       
 
 ### 📚 Проекты 📚
-Здесь содержится моё портфолио, где я демонстрирую вам свои проекты.
+Здесь содержится моё портфолио, где я демонстрирую вам свои [проекты](https://github.com/LevFomichev/Portfolio.git).
 
 ---
 
@@ -70,4 +70,4 @@
       * Introspection.
 
 ### 📚 Projects 📚
-This is my portfolio where I showcase you my projects.
+This is my portfolio where I showcase you my [projects](https://github.com/LevFomichev/Portfolio.git).
